@@ -5,12 +5,11 @@ The player is a very hungry and clever fugitive trapped in a highly guarded pris
 
 ## User Stories: (Pacman, Enemy)
 ### Pacman: (Alessandro)
-As a Pacman, I want to earn points by eating pellets and avoiding enemies. 
-As a Pacman, I will die if I touch an enemy. 
-As a Pacman, if I am in danger, I can eat a power pellets to counterattack my enemies.
-As a Pacman, if I want to be the best fugitive, I will have to earn the maximum points possible.
-As a Pacman, I have 3 life.
-
+1. As a Pacman, I want to earn points by eating pellets and avoiding enemies. 
+2. As a Pacman, I will die if I touch an enemy. 
+3. As a Pacman, if I am in danger, I can eat a power pellets to counterattack my enemies.
+4. As a Pacman, if I want to be the best fugitive, I will have to earn the maximum points possible.
+5. As a Pacman, I have 3 life.
 
 ### Enemy:(Xinwei Wu)
 6. As an enemy, I want to kill the Pacman through a single touch.
@@ -23,7 +22,6 @@ As a Pacman, I have 3 life.
 11. As a cherry, I will show up more frequently as the game goes on.
 12. As a cherry, I will move around.
 13. As a cherry, I may be eaten by the pacman.
-
 
 
 ## Sprints (Jian)
